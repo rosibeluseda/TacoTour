@@ -35,3 +35,8 @@ As players navigate the ever-changing environment, they must skillfully switch b
 <p align="center">
      <img src="https://github.com/rosibeluseda/TacoTour/assets/145386489/139b7858-2949-40f3-ac2b-72d6391eaa04" alt="SplashScreen">
 </p>
+
+# Meet our inspiration
+<p align="center">
+     <img src="https://github.com/rosibeluseda/TacoTour/assets/145386489/e9664837-e9ef-4558-942a-8aed0b5031f0" alt="SplashScreen">
+</p>
