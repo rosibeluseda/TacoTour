@@ -38,5 +38,5 @@ As players navigate the ever-changing environment, they must skillfully switch b
 
 # Meet our inspiration
 <p align="center">
-     <img src="https://github.com/rosibeluseda/TacoTour/assets/145386489/e9664837-e9ef-4558-942a-8aed0b5031f0" alt="TacoProgrammer" width="4700">
+     <img src="https://github.com/rosibeluseda/TacoTour/assets/145386489/e9664837-e9ef-4558-942a-8aed0b5031f0" alt="TacoProgrammer" width="400">
 </p>
