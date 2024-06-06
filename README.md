@@ -9,7 +9,7 @@ Our dev team, 6 Summers Studio, consists of students from the Game Development p
 
 The game mechanics in "Taco Tour" include the ability for Taco to crouch and dash, while Tour can jump high and revive after falling into a hole. The endless path is dynamically generated, with platforms, ceilings, and obstacles meticulously placed to challenge the player. This design ensures that players must employ strategic thinking and quick reflexes to succeed.
 
-As players navigate the ever-changing environment, they must skillfully switch between Taco and Tour, utilizing their unique abilities to overcome various challenges. The game’s difficulty increases progressively, keeping players engaged and on their toes. With its combination of strategic gameplay and vibrant, engaging visuals, "Taco Tour" provides an exciting and entertaining experience for all ages.
+As players navigate the ever-changing environment, they must skillfully switch between Taco and Tour, utilizing their unique abilities to overcome various challenges. The game’s difficulty increases progressively, keeping players engaged and on their toes. With its combination of strategic gameplay and vibrant, engaging visuals, **Taco Tour** provides an exciting and entertaining experience for all ages.
 
 Our team members:
 - Valentina Arias - Lead Producer
