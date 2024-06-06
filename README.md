@@ -1,4 +1,4 @@
-# tacotour
+# TacoTour
 
 **Taco Tour** is an engaging endless runner game developed with Unity, featuring an adventurous chihuahua named Taco and a agile cat named Tour. In this game, players must skillfully switch between Taco and Tour to navigate a series of challenging obstacles. Taco, the chihuahua, has the ability to crouch and squeeze through tight spaces, while Tour, the cat, can jump higher to clear tall barriers. 
 
