@@ -4,6 +4,10 @@
 
 As players progress, they can collect power-ups that enhance their gameplay experience. These power-ups include the ability to dash with Taco, enabling quick bursts of speed to avoid danger, and a revive option for Tour, allowing players to rescue the cat if it falls into a hole. With vibrant graphics, intuitive controls, and an exciting array of obstacles and power-ups, Taco Tour offers endless fun and challenge for players of all ages.
 
+<p align="center">
+     <img src="https://github.com/rosibeluseda/TacoTour/assets/145386489/1743587f-b706-4bc6-a6b2-6646eb5df085" alt="Preview Game">
+</p>
+
 # Brainstorming and Conceptualization
 Our dev team, 6 Summers Studio, consists of students from the Game Development program at NBCC in Miramichi, New Brunswick. We brainstormed ideas that would capture the attention of both young and adult casual players. After a lively debate, we settled on the concept of **Taco Tour**, a game featuring a cute chihuahua named Taco who runs endlessly to find his way back home. Along the way, Taco meets Tour, a stray cat who helps him overcome obstacles, ensuring Taco's safe journey back home.
 
