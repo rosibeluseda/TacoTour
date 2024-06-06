@@ -20,6 +20,6 @@ Our team members:
 - Sebastian Canceco - Lead Sound Designer
 
 <p align="center">
-     <img src="[https://github.com/MethodCa/Wack-a-shoot/assets/15893276/1407aed3-f278-4176-9f7d-620905ea77e9](https://github.com/rosibeluseda/TacoTour/assets/145386489/08f9cabf-ab86-4ea4-b28c-ac691b26a16f)" alt="Team diagram">
+     <img src="https://github.com/rosibeluseda/TacoTour/assets/145386489/08f9cabf-ab86-4ea4-b28c-ac691b26a16f" alt="Team diagram">
 </p>
 
