@@ -29,14 +29,14 @@ As players navigate the ever-changing environment, they must skillfully switch b
 </p>
 <h3>Taco</h3>
 <p align="center">
-     <img src="https://github.com/rosibeluseda/TacoTour/assets/145386489/7ef2c365-a806-4ac6-810c-aeb7d734640e" alt="SplashScreen">
+     <img src="https://github.com/rosibeluseda/TacoTour/assets/145386489/7ef2c365-a806-4ac6-810c-aeb7d734640e" alt="Taco">
 </p>
 <h3>Tour</h3>
 <p align="center">
-     <img src="https://github.com/rosibeluseda/TacoTour/assets/145386489/139b7858-2949-40f3-ac2b-72d6391eaa04" alt="SplashScreen">
+     <img src="https://github.com/rosibeluseda/TacoTour/assets/145386489/139b7858-2949-40f3-ac2b-72d6391eaa04" alt="Tour">
 </p>
 
 # Meet our inspiration
 <p align="center">
-     <img src="https://github.com/rosibeluseda/TacoTour/assets/145386489/e9664837-e9ef-4558-942a-8aed0b5031f0" alt="SplashScreen">
+     <img src="https://github.com/rosibeluseda/TacoTour/assets/145386489/e9664837-e9ef-4558-942a-8aed0b5031f0" alt="TacoProgrammer" width="200">
 </p>
