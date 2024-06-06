@@ -23,3 +23,13 @@ Our team members:
      <img src="https://github.com/rosibeluseda/TacoTour/assets/145386489/08f9cabf-ab86-4ea4-b28c-ac691b26a16f" alt="Team diagram">
 </p>
 
+# Art
+<p align="center">
+     <img src="https://github.com/rosibeluseda/TacoTour/assets/145386489/7c488dc3-bb8c-437f-b384-15315b5f2fe2" alt="SplashScreen">
+</p>
+<p align="center">
+     <img src="https://github.com/rosibeluseda/TacoTour/assets/145386489/7ef2c365-a806-4ac6-810c-aeb7d734640e" alt="SplashScreen">
+</p>
+<p align="center">
+     <img src="https://github.com/rosibeluseda/TacoTour/assets/145386489/139b7858-2949-40f3-ac2b-72d6391eaa04" alt="SplashScreen">
+</p>
