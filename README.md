@@ -11,7 +11,7 @@ The game mechanics in **Taco Tour** include the ability for Taco to crouch and d
 
 As players navigate the ever-changing environment, they must skillfully switch between Taco and Tour, utilizing their unique abilities to overcome various challenges. The game’s difficulty increases progressively, keeping players engaged and on their toes. With its combination of strategic gameplay and vibrant, engaging visuals, **Taco Tour** provides an exciting and entertaining experience for all ages.
 
-Our team members:
+**Our team members:**
 - Valentina Arias - Lead Producer
 - Rosibel Useda - Lead Programmer
 - Julian Silva - Lead Tester
