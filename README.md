@@ -28,12 +28,12 @@ As players navigate the ever-changing environment, they must skillfully switch b
 </p>
 
 # Game Mechanics
-* **Character abilities:** 
-     <p>**Taco**</p>
-          * Run (Automatically)
-          * Short Jump
-          * Duck/Slide
-          * Power-up: Dash!
+* **Character abilities:**
+	- **Taco**
+		- Run(Automatically)
+		- Short Jump
+		- Duck/Slide
+		- Power-up: Dash!
           
      **Tour**
           *Run (Automatically)
