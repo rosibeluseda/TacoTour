@@ -41,8 +41,8 @@ As players navigate the ever-changing environment, they must skillfully switch b
 		- Power-up: One extra life while power-up is active
 
 * **Changing Mechanics:**
-	* Timer - A timed delay everytime the player changes from one character to another 
-	* Free changing - The player changes whenever they want, as long as the changing timer is up.
+	* Timer: A timed delay everytime the player changes from one character to another 
+	* Free changing: The player changes whenever they want, as long as the changing timer is up.
 	* If the player changes while the dog is in a small space, the cat will get stuck and the screen will catch up to the player.
 	* If  the player changes while the cat is walking on the ceiling, the dog will fall straight down.
 	* If the player has any active power-ups and they change, the power-up is deactivated.
