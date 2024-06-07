@@ -27,6 +27,29 @@ As players navigate the ever-changing environment, they must skillfully switch b
      <img src="https://github.com/rosibeluseda/TacoTour/assets/145386489/08f9cabf-ab86-4ea4-b28c-ac691b26a16f" alt="Team diagram">
 </p>
 
+# Game Mechanics
+* **Character abilities:** 
+     <p>**Taco**</p>
+          * Run (Automatically)
+          * Short Jump
+          * Duck/Slide
+          * Power-up: Dash!
+          
+     **Tour**
+          *Run (Automatically)
+          *Normal Jump
+          *Walk on Ceiling
+          *Power-up: One extra life while power-up is active
+
+* **Changing Mechanics:**
+     *Timer - A timed delay everytime the player changes from one character to another 
+     *Free changing - The player changes whenever they want, as long as the changing timer is up.
+     *If the player changes while the dog is in a small space, the cat will get stuck and the screen will catch up to the player.
+     *If  the player changes while the cat is walking on the ceiling, the dog will fall straight down.
+     *If the player has any active power-ups and they change, the power-up is deactivated. 
+
+
+
 # Art
 <p align="center">
      <img src="https://github.com/rosibeluseda/TacoTour/assets/145386489/7c488dc3-bb8c-437f-b384-15315b5f2fe2" alt="SplashScreen">
