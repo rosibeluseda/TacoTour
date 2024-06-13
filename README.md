@@ -23,6 +23,10 @@ As players navigate the ever-changing environment, they must skillfully switch b
 - Ana Bohorquez - Lead Level Designer
 - Sebastian Canceco - Lead Sound Designer
 
+## My Contributions
+- Brainstorming ideas to design the game and the gameplay.
+- Programming of characters gameplay and importing assets to Unity.
+
 <p align="center">
      <img src="https://github.com/rosibeluseda/TacoTour/assets/145386489/08f9cabf-ab86-4ea4-b28c-ac691b26a16f" alt="Team diagram">
 </p>
